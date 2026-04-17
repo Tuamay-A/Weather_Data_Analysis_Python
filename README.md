@@ -90,17 +90,17 @@ time is recorded to eliminate timing noise.
 
 ### Benchmark Table Output
 
-![Benchmark Table](screenshots/Screenshot%202026-04-16%20165400.png)
+![Benchmark Table](screenshots/screenshot-1.png)
 
-![Benchmark Table 2](screenshots/Screenshot%202026-04-16%20165519.png)
+![Benchmark Table 2](screenshots/screenshot-2.png)
 
-![Benchmark Table 3](screenshots/Screenshot%202026-04-16%20165535.png)
+![Benchmark Table 3](screenshots/screenshot-3.png)
 
 ### Math Proof Output
 
-![Math Proof](screenshots/Screenshot%202026-04-16%20165705.png)
+![Math Proof](screenshots/screenshot-4.png)
 
-![Math Proof 2](screenshots/Screenshot%202026-04-16%20165718.png)
+![Math Proof 2](screenshots/screenshot-5.png)
 
 ---
 
