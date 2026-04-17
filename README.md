@@ -78,11 +78,11 @@ time is recorded to eliminate timing noise.
 
 ### Comparisons Chart
 
-![Comparisons Chart](screenshots/comparisons_chart.png)
+![Comparisons Chart](Screenshots/comparisons_chart.png)
 
 ### Execution Time Chart
 
-![Execution Time Chart](screenshots/execution_time_chart.png)
+![Execution Time Chart](Screenshots/execution_time_chart.png)
 
 ---
 
@@ -90,17 +90,17 @@ time is recorded to eliminate timing noise.
 
 ### Benchmark Table Output
 
-![Benchmark Table](screenshots/screenshot-1.png)
+![Benchmark Table](Screenshots/screenshot-1.png)
 
-![Benchmark Table 2](screenshots/screenshot-2.png)
+![Benchmark Table 2](Screenshots/screenshot-2.png)
 
-![Benchmark Table 3](screenshots/screenshot-3.png)
+![Benchmark Table 3](Screenshots/screenshot-3.png)
 
 ### Math Proof Output
 
-![Math Proof](screenshots/screenshot-4.png)
+![Math Proof](Screenshots/screenshot-4.png)
 
-![Math Proof 2](screenshots/screenshot-5.png)
+![Math Proof 2](Screenshots/screenshot-5.png)
 
 ---
 
