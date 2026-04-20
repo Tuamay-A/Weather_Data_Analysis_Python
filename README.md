@@ -19,8 +19,11 @@ weather_benchmarker/
 ├── weather_data.csv            # Auto-generated at runtime (5,000 records)
 └── screenshots/                # Charts and terminal output screenshots
     ├── comparisons_chart.png
+    ├── comparisons_bar_chart.png
     ├── execution_time_chart.png
-    └── *.png                   # Terminal output screenshots
+    ├── savings_chart.png
+    ├── time_ratio_chart.png
+    └── screenshot-*.png            # Terminal output screenshots
 ```
 
 ---
@@ -76,13 +79,25 @@ find_min_max(arr, low, high):
 Each algorithm is run **20 times** per input size and the average execution
 time is recorded to eliminate timing noise.
 
-### Comparisons Chart
+### Comparisons — Line Chart
 
-![Comparisons Chart](ScreenShots/comparisons_chart.png)
+![Comparisons Chart](screenshots/comparisons_chart.png)
 
-### Execution Time Chart
+### Comparisons — Bar Chart (Side by Side)
 
-![Execution Time Chart](ScreenShots/execution_time_chart.png)
+![Comparisons Bar Chart](screenshots/comparisons_bar_chart.png)
+
+### Execution Time
+
+![Execution Time Chart](screenshots/execution_time_chart.png)
+
+### Comparisons Saved by D&C (= n/2)
+
+![Savings Chart](screenshots/savings_chart.png)
+
+### D&C Time Overhead vs Iterative
+
+![Time Ratio Chart](screenshots/time_ratio_chart.png)
 
 ---
 
@@ -90,17 +105,17 @@ time is recorded to eliminate timing noise.
 
 ### Benchmark Table Output
 
-![Benchmark Table](ScreenShots/screenshot-1.png)
+![Benchmark Table](screenshots/screenshot-1.png)
 
-![Benchmark Table 2](ScreenShots/screenshot-2.png)
+![Benchmark Table 2](screenshots/screenshot-2.png)
 
-![Benchmark Table 3](ScreenShots/screenshot-3.png)
+![Benchmark Table 3](screenshots/screenshot-3.png)
 
 ### Math Proof Output
 
-![Math Proof](ScreenShots/screenshot-4.png)
+![Math Proof](screenshots/screenshot-4.png)
 
-![Math Proof 2](ScreenShots/screenshot-5.png)
+![Math Proof 2](screenshots/screenshot-5.png)
 
 ---
 
