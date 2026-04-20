@@ -81,23 +81,23 @@ time is recorded to eliminate timing noise.
 
 ### Comparisons — Line Chart
 
-![Comparisons Chart](screenshots/comparisons_chart.png)
+![Comparisons Chart](ScreenShots/comparisons_chart.png)
 
 ### Comparisons — Bar Chart (Side by Side)
 
-![Comparisons Bar Chart](screenshots/comparisons_bar_chart.png)
+![Comparisons Bar Chart](ScreenShots/comparisons_bar_chart.png)
 
 ### Execution Time
 
-![Execution Time Chart](screenshots/execution_time_chart.png)
+![Execution Time Chart](ScreenShots/execution_time_chart.png)
 
 ### Comparisons Saved by D&C (= n/2)
 
-![Savings Chart](screenshots/savings_chart.png)
+![Savings Chart](ScreenShots/savings_chart.png)
 
 ### D&C Time Overhead vs Iterative
 
-![Time Ratio Chart](screenshots/time_ratio_chart.png)
+![Time Ratio Chart](ScreenShots/time_ratio_chart.png)
 
 ---
 
@@ -105,17 +105,17 @@ time is recorded to eliminate timing noise.
 
 ### Benchmark Table Output
 
-![Benchmark Table](screenshots/screenshot-1.png)
+![Benchmark Table](ScreenShots/screenshot-1.png)
 
-![Benchmark Table 2](screenshots/screenshot-2.png)
+![Benchmark Table 2](ScreenShots/screenshot-2.png)
 
-![Benchmark Table 3](screenshots/screenshot-3.png)
+![Benchmark Table 3](ScreenShots/screenshot-3.png)
 
 ### Math Proof Output
 
-![Math Proof](screenshots/screenshot-4.png)
+![Math Proof](ScreenShots/screenshot-4.png)
 
-![Math Proof 2](screenshots/screenshot-5.png)
+![Math Proof 2](ScreenShots/screenshot-5.png)
 
 ---
 
